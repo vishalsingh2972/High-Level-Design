@@ -8,31 +8,31 @@
 This repository contains resources to learn System Design concepts and prepare for interviews.
 
 ## 📌 System Design Key Concepts
-- [Scalability](https://blog.algomaster.io/p/scalability)
-- [CAP Theorem](https://blog.algomaster.io/p/15f1d791-86ce-40ed-8269-962dbddbefdb)
-- [ACID Transactions](https://blog.algomaster.io/p/ecae03ba-1930-42ef-8796-83e2fa818989)
+- [Scalability](https://blog.algomaster.io/p/scalability) ✔️
+- [CAP Theorem](https://blog.algomaster.io/p/15f1d791-86ce-40ed-8269-962dbddbefdb) ✔️
+- [ACID Transactions](https://blog.algomaster.io/p/ecae03ba-1930-42ef-8796-83e2fa818989) ✔️
 - [Consistent Hashing](https://highscalability.com/consistent-hashing-algorithm/)
-- [Rate Limiting](https://blog.algomaster.io/p/rate-limiting-algorithms-explained-with-code)
-- [API Design](https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f)
-- [Fault Tolerance](https://www.cockroachlabs.com/blog/what-is-fault-tolerance/)
-- [Consensus Algorithms](https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c)
-- [Gossip Protocol](http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html)
-- [Service Discovery](https://blog.algomaster.io/p/0204da93-f0e9-49b9-a88a-cb20b9931575)
-- [Disaster Recovery](https://cloud.google.com/learn/what-is-disaster-recovery)
-- [Distributed Tracing](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/)
+- [Rate Limiting](https://blog.algomaster.io/p/rate-limiting-algorithms-explained-with-code) ✔️
+- [API Design](https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f) ✔️
+- [Fault Tolerance](https://www.cockroachlabs.com/blog/what-is-fault-tolerance/) ✔️
+- [Consensus Algorithms](https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c) ✔️
+- [Gossip Protocol](http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html) ✔️
+- [Service Discovery](https://blog.algomaster.io/p/0204da93-f0e9-49b9-a88a-cb20b9931575) ✔️
+- [Disaster Recovery](https://cloud.google.com/learn/what-is-disaster-recovery) ✔️
+- [Distributed Tracing](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/) ✔️
 
 ## ⚖️ System Design Tradeoffs
-- [Top 15 Tradeoffs](https://blog.algomaster.io/p/system-design-top-15-trade-offs)
-- [Vertical vs Horizontal Scaling](https://blog.algomaster.io/p/system-design-vertical-vs-horizontal-scaling)
+- [Top 15 Tradeoffs](https://blog.algomaster.io/p/system-design-top-15-trade-offs) ✔️
+- [Vertical vs Horizontal Scaling](https://blog.algomaster.io/p/system-design-vertical-vs-horizontal-scaling) ✔️
 - [Stateful vs Stateless Design](https://blog.algomaster.io/p/741dff8e-10ea-413e-8dd2-be57434917d2)
-- [Strong vs Eventual Consistency](https://blog.algomaster.io/p/7d9da525-fe25-4e16-94e8-8056e7c57934)
-- [Read-Through vs Write-Through Cache](https://blog.algomaster.io/p/59cae60d-9717-4e20-a59e-759e370db4e5)
+- [Strong vs Eventual Consistency](https://blog.algomaster.io/p/7d9da525-fe25-4e16-94e8-8056e7c57934) ✔️
+- [Read-Through vs Write-Through Cache](https://blog.algomaster.io/p/59cae60d-9717-4e20-a59e-759e370db4e5) ✔️
 - [Push vs Pull Architecture](https://blog.algomaster.io/p/af5fe2fe-9a4f-4708-af43-184945a243af)
 - [Long-polling vs WebSockets](https://blog.algomaster.io/p/60bfcee4-8ac5-4500-a557-a04c8cbcaf48)
-- [REST vs RPC](https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/)
-- [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
-- [Synchronous vs. asynchronous communications](https://blog.algomaster.io/p/aec1cebf-6060-45a7-8e00-47364ca70761)
-- [Batch Processing vs Stream Processing](https://blog.algomaster.io/p/d9442268-03d8-4f55-a103-7a3d4fb54661)
+- [REST vs RPC](https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/) ✔️
+- [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/) ✔️
+- [Synchronous vs. asynchronous communications](https://blog.algomaster.io/p/aec1cebf-6060-45a7-8e00-47364ca70761) ✔️
+- [Batch Processing vs Stream Processing](https://blog.algomaster.io/p/d9442268-03d8-4f55-a103-7a3d4fb54661) ✔️
 
 ## 🛠️ System Design Building Blocks
 - [Databases Types](https://blog.algomaster.io/p/15-types-of-databases)
@@ -55,7 +55,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Failover](https://avinetworks.com/glossary/failover/)
 - [Proxy Server](https://www.fortinet.com/resources/cyberglossary/proxy-server)
 - [Message Queues](https://medium.com/must-know-computer-science/system-design-message-queues-245612428a22)
-- [Checksums](https://blog.algomaster.io/p/what-are-checksums)
+- [Checksums](https://blog.algomaster.io/p/what-are-checksums) ✔️
 - [WebSockets](https://www.pubnub.com/guides/websockets/)
 - [Bloom Filters](https://www.enjoyalgorithms.com/blog/bloom-filter)
 - [API Gateway](https://www.nginx.com/learn/api-gateway/)
