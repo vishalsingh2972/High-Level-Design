@@ -53,7 +53,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Data Redundancy](https://blog.algomaster.io/p/489440f1-9c80-4241-9ec8-de156964c3b9)
 - [Database Sharding](https://blog.algomaster.io/p/what-is-database-sharding)
 - [Database Architectures](https://www.mongodb.com/developer/products/mongodb/active-active-application-architectures/)
-- [ ] [Failover](https://avinetworks.com/glossary/failover/)
+- [x] [Failover](https://avinetworks.com/glossary/failover/)
 - [Proxy Server](https://www.fortinet.com/resources/cyberglossary/proxy-server)
 - [Message Queues](https://medium.com/must-know-computer-science/system-design-message-queues-245612428a22)
 - [Checksums](https://blog.algomaster.io/p/what-are-checksums) ✔️
